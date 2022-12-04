@@ -2,7 +2,7 @@
 
 The goal of this project is to build a complete web-based visualization system leveraging outcomes from the previous two projects by using JavaScript and D3 to visualize and interactively analyze a dataset. For a 5-minute presentation, please watch the video below:
 
-[![Video](images/presentation.png)](https://vimeo.com/767885944)
+[![Video](images/presentation.png)](https://vimeo.com/777849653)
 
 ### Description:
 
